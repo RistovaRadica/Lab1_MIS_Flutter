@@ -20,3 +20,7 @@ In the project directory, run:
 ```bash
 flutter pub get
 flutter run
+
+
+### 3. Example Images
+Can be found under '/images' directory.
